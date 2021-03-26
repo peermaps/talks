@@ -1,5 +1,7 @@
 # peermaps: peer to peer maps in the browser
 
+https://github.com/peermaps/talks/blob/main/speakeasyjs-2021-03-26.md
+
 ---
 # suppose you want to put a map in a web page...
 
